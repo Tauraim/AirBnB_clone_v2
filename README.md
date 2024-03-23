@@ -1,3 +1,12 @@
+Allowed editors: vi, vim, emacs
+All your files will be executed on Ubuntu 20.04 LTS using MySQL 8.0
+Your files will be executed with SQLAlchemy version 1.4.x
+All your files should end with a new line
+All your SQL queries should have a comment just before (i.e. syntax above)
+All your files should start by a comment describing the task
+All SQL keywords should be in uppercase (SELECT, WHERE…)
+A README.md file, at the root of the folder of the project, is mandatory
+The length of your files will be tested using wc
 <center> <h1>HBNB - The Console</h1> </center>
 
 This repository contains the initial stage of a student project to build a clone of the AirBnB website. This stage implements a backend interface, or console, to manage program data. Console commands allow the user to create, update, and destroy objects, as well as manage file storage. Using a system of JSON serialization/deserialization, storage is persistent between sessions.
